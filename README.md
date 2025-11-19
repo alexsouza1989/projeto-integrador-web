@@ -6,4 +6,4 @@
 **UNISA - 2025**
 
 ### Como executar:
-Acesse: https://[seu-usuario].github.io/projeto-integrador-web/
+Acesse: https://alexsouza1989.github.io/projeto-integrador-web/
