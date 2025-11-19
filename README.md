@@ -1,7 +1,7 @@
 # Projeto Integrador - Programação WEB
 ## Sistema de Gestão de Tarefas
 
-**Aluno:** [Alex Fernandes de Souza]
+**Aluno:** Alex Fernandes de Souza
 **Curso:** Análise e Desenvolvimento de Sistemas
 **UNISA - 2025**
 
